@@ -36,6 +36,19 @@ class Song
     
   end
   
-  def 
-
+  def self.alphabetical
+    
+  end
+  
+  def self.new_from_filename
+    
+  end
+  
+  def self.create_from_filename
+    
+  end
+  
+  def self.destroy_all
+    
+  end  
 end
